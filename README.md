@@ -23,7 +23,7 @@ Before using this plugin, you must ensure that you have a usable instance of `ju
 
 ### Linter configuration
 
-To make it working you need to specify path to your executable of `Julia` and edit the script within the package content. Do the following:
+To make it working you need to specify path to your executable of `Julia`. Do the following:
 
 1. Go to `Sublime Text -> Preferences -> Package Settings -> SublimeLinter -> Settings User`
 
