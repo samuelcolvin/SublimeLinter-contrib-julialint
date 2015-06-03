@@ -29,7 +29,7 @@ To make it working you need to specify path to your executable of `Julia`. Do th
 
 2. Add to paths variable path to your executable of julia:
     - **OS X**: Something like "osx": ["/Applications/julia-0.3.5.app/Contents/Resources/julia/bin"] if you have the binaries (the number changes based on the version) or if you have installed manually you should be able to figure out what path to add.
-    - **Linux**: if anyone has an example let me know to include it here.
+    - **Linux**: something like `"linux": ["/usr/bin/julia"],` you can use `whereis julia` to find the path to your julia executable.
     - **Windows**: you should locate julia.exe .
 
 ### Plugin installation
